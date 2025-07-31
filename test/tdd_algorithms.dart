@@ -1,6 +1,3 @@
-import 'dart:ffi';
-import 'dart:math';
-
 import 'package:tdd_algorithms/palindrome.dart';
 import 'package:tdd_algorithms/prime_number.dart';
 import 'package:test/expect.dart';

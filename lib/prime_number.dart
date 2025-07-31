@@ -1,4 +1,3 @@
-//prime number
 class Prime {
   bool isPrime(int value) {
     if (value <= 1) {
